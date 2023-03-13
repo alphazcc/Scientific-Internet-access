@@ -11,6 +11,8 @@
 
 #### 博主是在 [全球通](https://www.goingv2pro.com/user) 上购买的套餐，一般 *轻量套餐* 就够用了。
 
+PS： [全球通](https://www.goingv2pro.com/user) 现在涨价了，建议另辟便宜好用的订阅…
+
 ![在这里插入图片描述](/images/packet.png)
 
 #### 购买完成后复制 Clash 订阅链接或者一键导入到 Clash 中。
